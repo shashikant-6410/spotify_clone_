@@ -3,7 +3,7 @@
 A simple, responsive clone of the Spotify landing page built using only HTML and CSS.
 This project is a front-end UI replica created for learning and practice purposes.
 
-#🔍 Features
+🔍 Features
 
 🎧 Spotify-like landing page design
 📱 Responsive layout (mobile/tablet/desktop)
